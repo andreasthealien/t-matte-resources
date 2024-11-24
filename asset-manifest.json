@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.17777350.css",
+    "main.js": "./static/js/main.e4a293e0.js",
+    "static/media/math-logo.png": "./static/media/math-logo.dcacc3d3131f54ba865d.png",
+    "index.html": "./index.html",
+    "main.17777350.css.map": "./static/css/main.17777350.css.map",
+    "main.e4a293e0.js.map": "./static/js/main.e4a293e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17777350.css",
+    "static/js/main.e4a293e0.js"
+  ]
+}
